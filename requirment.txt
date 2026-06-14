@@ -1,0 +1,4 @@
+# Requirements for Rule-Based Chatbot
+# No external dependencies required - this project uses only Python standard library
+ 
+# Python version: 3.6 or higher
